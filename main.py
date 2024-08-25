@@ -35,6 +35,8 @@ print (f"the area of circle {Area}")
 ##write a program that calculates the area of rectangle using length and width variable
 l:int=int(input("enter the length of rectangle)"))
 w :int=int(input("enter the width of rectangle)"))
+
+
 area:int=w*l
 print(f"the area of rectangle{area})")
 ##calculate tha age based on current year and yoour birth year
